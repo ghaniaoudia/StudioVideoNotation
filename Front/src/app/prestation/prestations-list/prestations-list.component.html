@@ -1,0 +1,63 @@
+
+
+<mat-sidenav-container>
+  <mat-sidenav mode="side" opened>
+    <header>
+        <h1 style="text-align:center">Filtre</h1>
+    </header>
+
+    <section class="sidebar__content">  
+        <mat-form-field >
+            <mat-label>Saisir Titre</mat-label>
+          <input matInput >
+        </mat-form-field>
+      <br>
+    <mat-form-field>        
+        <mat-label>A partir de </mat-label>
+          <input matInput [matDatepicker]="picker1" placeholder="Choisir une date">
+          <mat-datepicker-toggle matSuffix [for]="picker1"></mat-datepicker-toggle>
+          <mat-datepicker #picker1></mat-datepicker>        
+    </mat-form-field> 
+    <br>
+    <mat-form-field>
+        <mat-label>Jusqu'à</mat-label>
+          <input matInput [matDatepicker]="picker2" placeholder="Choisir une date">
+          <mat-datepicker-toggle matSuffix [for]="picker2"></mat-datepicker-toggle>
+          <mat-datepicker #picker2></mat-datepicker>        
+    </mat-form-field>
+    <div class="filter__button">
+      <button class="btn btn-primary">Rechercher </button>
+  </div>
+    </section>
+</mat-sidenav>
+
+<mat-sidenav-content> 
+
+
+    
+
+      <kendo-grid #grid [data]='prestationsData' (dataStateChange)="onStateChange($event)"
+      (cellClick)="cellClickHandler($event)" (cellClose)="cellCloseHandler($event)">
+
+      <ng-template kendoGridToolbarTemplate>
+        <button class='btn btn-default' kendoGridAddCommand >Add new</button>
+        <button class='btn btn-default' (click)="saveChanges(grid);">Save Changes</button>
+        <button class='btn btn-default' (click)="cancelChanges(grid);">Cancel Changes</button>
+        
+      </ng-template>
+      <kendo-grid-column field="titrePrestation" title="Titre"></kendo-grid-column>
+      <kendo-grid-column field="commentaire" title="Commentaire"></kendo-grid-column>
+      <kendo-grid-column field="dateCreation" title="Date Création"></kendo-grid-column>
+      <kendo-grid-column title="Commande" width="220">
+        <ng-template kendoGridCellTemplate>
+          <button class='btn btn-secondary'>Demander une notation</button>
+        </ng-template>
+      </kendo-grid-column>
+
+      </kendo-grid>
+
+  </mat-sidenav-content>
+
+</mat-sidenav-container>
+
+

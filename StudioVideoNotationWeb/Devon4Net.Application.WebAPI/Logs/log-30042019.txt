@@ -1,0 +1,860 @@
+2019-04-30 10:02:46.658 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 10:02:46.688 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 10:02:47.517 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 10:02:47.520 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 10:02:47.703 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 10:10:16.582 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 10:10:16.609 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 10:10:17.086 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 10:10:17.089 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 10:10:17.102 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 11:42:47.080 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 11:42:47.107 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 11:42:47.771 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 11:42:47.774 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 11:42:47.935 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 11:58:49.111 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdPrestation: 1	
+IdClient: 2	
+Note: 4, 
+2019-04-30 11:58:49.159 +02:00 [INF] Action: OnActionExecuting | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdPrestation: 1	
+IdClient: 2	
+Note: 4, 
+2019-04-30 11:59:15.123 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-30 11:59:15.130 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-30 11:59:17.414 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-30 11:59:52.075 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdPrestation: 1	
+IdClient: 2	
+Note: 5, 
+2019-04-30 11:59:52.075 +02:00 [INF] Action: OnActionExecuting | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdPrestation: 1	
+IdClient: 2	
+Note: 5, 
+2019-04-30 11:59:59.665 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-30 11:59:59.665 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-30 11:59:59.689 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-30 12:01:09.187 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdPrestation: 1	
+IdClient: 2	
+Note: 1, 
+2019-04-30 12:01:09.211 +02:00 [INF] Action: OnActionExecuting | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdPrestation: 1	
+IdClient: 2	
+Note: 1, 
+2019-04-30 12:01:09.592 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-30 12:01:09.595 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-30 12:01:09.642 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-30 12:01:35.993 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdPrestation: 1	
+IdClient: 2	
+Note: 4, 
+2019-04-30 12:01:35.993 +02:00 [INF] Action: OnActionExecuting | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdPrestation: 1	
+IdClient: 2	
+Note: 4, 
+2019-04-30 12:01:36.048 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-30 12:01:36.049 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-30 12:01:36.050 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-30 12:13:26.924 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:13:26.925 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:13:27.063 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:13:27.063 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:13:27.073 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:15:39.596 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:15:39.635 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:15:40.290 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:15:40.294 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:15:40.524 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:16:47.756 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:16:47.757 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:16:47.784 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:16:47.785 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:16:47.786 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:16:49.915 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:16:49.916 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:16:49.923 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:16:49.923 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:16:49.924 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:17:30.345 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:17:30.345 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:17:30.352 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:17:30.353 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:17:30.353 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:18:25.015 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:18:25.018 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:18:25.032 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:18:25.033 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:18:25.033 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:18:28.027 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:18:28.027 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:18:28.032 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:18:28.032 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:18:28.033 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:18:32.277 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:18:32.277 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:18:32.283 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:18:32.283 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:18:32.284 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:19:37.000 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:19:37.000 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:19:37.008 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:19:37.008 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:19:37.008 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:20:21.886 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:20:21.887 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:20:21.905 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:20:21.905 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:20:21.905 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:21:58.291 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:21:58.292 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:21:58.299 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:21:58.300 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:21:58.300 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:22:20.836 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:22:20.836 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:22:20.842 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:22:20.842 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:22:20.843 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:22:25.048 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:22:25.048 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:22:25.053 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:22:25.053 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:22:25.053 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:22:29.149 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:22:29.149 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:22:29.159 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:22:29.159 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:22:29.160 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:23:57.558 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:23:57.558 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:23:57.567 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:23:57.568 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:23:57.568 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:24:00.749 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:24:00.749 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:24:00.759 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:24:00.760 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:24:00.760 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:48:20.856 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:48:20.876 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:48:21.226 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:48:21.229 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:48:21.341 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:48:38.328 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:48:38.328 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:48:38.336 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:48:38.337 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:48:38.337 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:48:43.768 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:48:43.768 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:48:43.776 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:48:43.777 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:48:43.777 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:48:45.192 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:48:45.192 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:48:45.199 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:48:45.199 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:48:45.199 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:49:22.368 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:49:22.368 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:49:22.375 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:49:22.375 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:49:22.375 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:49:28.250 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:49:28.250 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:49:28.253 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:49:28.254 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:49:28.254 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:49:29.079 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:49:29.079 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:49:29.083 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:49:29.084 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:49:29.084 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:49:29.752 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:49:29.752 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:49:29.756 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:49:29.756 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:49:29.757 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:49:30.486 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:49:30.486 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:49:30.490 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:49:30.490 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:49:30.490 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:49:31.357 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:49:31.357 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:49:31.411 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:49:31.411 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:49:31.411 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:51:32.994 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:51:32.995 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:51:33.004 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:51:33.004 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:51:33.005 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:51:38.363 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:51:38.364 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:51:38.369 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:51:38.369 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:51:38.370 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:51:41.205 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:51:41.205 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:51:41.211 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:51:41.211 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:51:41.212 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:51:43.066 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:51:43.066 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:51:43.070 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:51:43.070 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:51:43.070 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:09.636 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:54:09.660 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:54:10.049 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:10.052 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:10.181 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:13.862 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:54:13.862 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:54:13.886 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:13.886 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:13.887 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:15.288 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:54:15.288 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:54:15.293 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:15.293 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:15.294 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:15.965 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:54:15.965 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:54:15.970 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:15.970 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:15.970 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:16.456 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:54:16.457 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:54:16.462 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:16.463 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:16.463 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:18.648 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:54:18.648 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:54:18.652 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:18.652 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:18.653 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:19.079 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:54:19.080 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:54:19.085 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:19.085 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:19.086 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:19.461 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:54:19.461 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:54:19.466 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:19.466 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:19.466 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:19.981 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:54:19.981 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:54:19.985 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:19.986 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:54:19.986 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:55:02.031 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:55:02.052 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:55:15.140 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:55:15.145 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:55:15.196 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:55:15.203 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:55:15.203 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:55:16.760 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:55:16.760 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:55:16.766 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:55:16.773 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:55:16.774 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:55:18.047 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:55:18.047 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:55:18.047 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:56:08.490 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:56:08.490 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:56:34.696 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:56:34.701 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:56:34.702 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:56:34.739 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:56:34.739 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:56:35.630 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:56:35.631 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:56:35.631 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:56:35.642 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:56:35.643 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:56:36.121 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:56:36.121 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:56:36.121 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:56:36.127 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:56:36.127 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 12:56:36.626 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:56:36.626 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 12:56:36.626 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 14:32:37.706 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 14:32:37.726 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 14:33:14.668 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 14:33:14.671 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 14:33:14.683 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 14:34:53.803 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 14:34:53.804 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 14:35:07.935 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 14:35:07.936 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 14:35:07.937 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 14:35:22.438 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 14:35:22.438 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 14:35:26.419 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 14:35:26.419 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 14:35:26.419 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 14:37:46.246 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+
+2019-04-30 14:37:46.272 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+
+2019-04-30 14:37:47.960 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-30 14:37:47.961 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-30 14:37:47.962 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-30 14:37:47.964 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-30 14:37:48.071 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+
+2019-04-30 14:37:48.071 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+
+2019-04-30 14:37:48.092 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-30 14:37:48.093 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-30 14:37:48.093 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-30 14:37:48.093 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-30 15:12:34.480 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdPrestation: 1	
+IdClient: 2	
+Note: 0, 
+2019-04-30 15:12:34.482 +02:00 [INF] Action: OnActionExecuting | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdPrestation: 1	
+IdClient: 2	
+Note: 0, 
+2019-04-30 15:12:34.808 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-30 15:12:34.811 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-30 15:12:34.825 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-30 16:44:47.185 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:44:47.192 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:44:47.372 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:44:47.374 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:44:47.391 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:44:48.418 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:44:48.418 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:44:48.507 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:44:48.507 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:44:48.508 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:56:23.897 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:56:23.899 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:56:23.954 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:56:23.954 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:56:23.955 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:56:48.644 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:56:48.645 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:56:48.653 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:56:48.653 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:56:48.654 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:56:50.513 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:56:50.513 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:56:50.518 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:56:50.518 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:56:50.519 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:57:07.225 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:57:07.225 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:57:07.231 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:57:07.231 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:57:07.232 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:57:39.535 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:57:39.535 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:57:39.547 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:57:39.547 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:57:39.548 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:57:49.256 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:57:49.256 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:57:49.262 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:57:49.262 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:57:49.263 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:58:00.699 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:58:00.699 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:58:00.705 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:58:00.705 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:58:00.705 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:58:01.570 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:58:01.570 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:58:01.580 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:58:01.580 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:58:01.581 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:58:03.376 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:58:03.376 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:58:03.381 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:58:03.382 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:58:03.383 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:59:07.130 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:59:07.130 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:59:07.140 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:59:07.140 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:59:07.142 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:59:07.982 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:59:07.982 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 16:59:07.989 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:59:07.989 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 16:59:07.990 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 17:01:49.266 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 17:01:49.284 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 17:01:49.743 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 17:01:49.746 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 17:01:49.856 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 17:02:10.716 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 17:02:10.717 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 17:02:36.641 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 17:02:36.641 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 17:02:36.643 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 17:02:54.381 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 17:02:54.381 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 17:03:01.941 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 17:03:01.941 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 17:03:01.942 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 17:03:12.318 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 17:03:12.318 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-30 17:03:19.226 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 17:03:19.226 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-30 17:03:19.227 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto

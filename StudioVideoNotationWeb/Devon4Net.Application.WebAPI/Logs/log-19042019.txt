@@ -1,0 +1,30 @@
+2019-04-19 15:46:32.098 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdNotation: 0	
+IdPrestation: 1	
+IdClient: 2	
+Note: 4, 
+2019-04-19 15:46:32.117 +02:00 [INF] Action: OnActionExecuting | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdNotation: 0	
+IdPrestation: 1	
+IdClient: 2	
+Note: 4, 
+2019-04-19 15:46:32.882 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-19 15:46:32.885 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-19 15:46:32.896 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-19 15:47:19.004 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-19 15:47:19.005 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-19 15:47:19.077 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-19 15:47:19.077 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-19 15:47:19.081 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto

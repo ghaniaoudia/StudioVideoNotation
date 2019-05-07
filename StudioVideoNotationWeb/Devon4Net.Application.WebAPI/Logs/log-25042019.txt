@@ -1,0 +1,42 @@
+2019-04-25 15:59:45.184 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 12, 
+2019-04-25 15:59:45.214 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 12, 
+2019-04-25 15:59:46.208 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-25 15:59:46.216 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-25 15:59:46.217 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-25 15:59:46.221 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-25 15:59:52.422 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-25 15:59:52.423 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 1, 
+2019-04-25 15:59:52.502 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-25 15:59:52.506 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-25 15:59:52.526 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.PrestationManagement.Dto.PrestationDto
+2019-04-25 16:00:23.193 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdNotation: 0	
+IdPrestation: 1	
+IdClient: 2	
+Note: 3, 
+2019-04-25 16:00:23.194 +02:00 [INF] Action: OnActionExecuting | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdNotation: 0	
+IdPrestation: 1	
+IdClient: 2	
+Note: 3, 
+2019-04-25 16:00:23.337 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-25 16:00:23.337 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-25 16:00:23.340 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto

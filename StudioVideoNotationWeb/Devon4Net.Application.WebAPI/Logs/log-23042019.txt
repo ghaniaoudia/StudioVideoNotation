@@ -1,0 +1,65 @@
+2019-04-23 12:02:13.800 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdNotation: 0	
+IdPrestation: 1	
+IdClient: 2	
+Note: 1, 
+2019-04-23 12:02:13.823 +02:00 [INF] Action: OnActionExecuting | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdNotation: 0	
+IdPrestation: 1	
+IdClient: 2	
+Note: 1, 
+2019-04-23 12:02:14.561 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-23 12:02:14.566 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-23 12:02:14.585 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-23 12:06:43.160 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdNotation: 0	
+IdPrestation: 1	
+IdClient: 2	
+Note: 4, 
+2019-04-23 12:06:43.187 +02:00 [INF] Action: OnActionExecuting | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdNotation: 0	
+IdPrestation: 1	
+IdClient: 2	
+Note: 4, 
+2019-04-23 12:06:43.720 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-23 12:06:43.724 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-23 12:06:43.739 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-23 12:15:38.574 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Note | method: addNote| ActionArguments: 
+
+2019-04-23 12:15:38.608 +02:00 [INF] Action: OnActionExecuting | Controller: Note | method: addNote| ActionArguments: 
+
+2019-04-23 12:15:38.633 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-23 12:15:38.635 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-23 12:15:38.636 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-23 12:15:38.639 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-23 12:20:00.907 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdNotation: 0	
+IdPrestation: 1	
+IdClient: 2	
+Note: 3, 
+2019-04-23 12:20:00.929 +02:00 [INF] Action: OnActionExecuting | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdNotation: 0	
+IdPrestation: 1	
+IdClient: 2	
+Note: 3, 
+2019-04-23 12:20:01.356 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-23 12:20:01.360 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-23 12:20:01.370 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto

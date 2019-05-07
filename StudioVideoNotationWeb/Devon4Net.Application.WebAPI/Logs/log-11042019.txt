@@ -1,0 +1,12 @@
+2019-04-11 10:28:36.632 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 5, 
+2019-04-11 10:28:36.650 +02:00 [INF] Action: OnActionExecuting | Controller: Prestation | method: GetPrestation| ActionArguments: 
+	
+Key: id, 	
+Value: 5, 
+2019-04-11 10:28:36.664 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-11 10:28:36.671 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-11 10:28:36.672 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found
+2019-04-11 10:28:36.675 +02:00 [ERR] Exception Type: NullReferenceException | Message: Object reference not set to an instance of an object. | InnerException: No InnerException exception data found

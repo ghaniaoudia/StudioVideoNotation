@@ -1,0 +1,19 @@
+2019-04-18 21:35:55.332 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdNotation: 0	
+IdPrestation: 1	
+IdClient: 2	
+Note: 2, 
+2019-04-18 21:35:55.384 +02:00 [INF] Action: OnActionExecuting | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdNotation: 0	
+IdPrestation: 1	
+IdClient: 2	
+Note: 2, 
+2019-04-18 21:35:57.670 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-18 21:35:57.678 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-04-18 21:35:57.700 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto

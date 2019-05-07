@@ -1,0 +1,36 @@
+2019-05-07 10:15:31.600 +02:00 [ERR] Exception Type: InvalidOperationException | Message: Unable to resolve service for type 'Devon4Net.Business.Common.ClientManagement.Service.IClientService' while attempting to activate 'Devon4Net.Business.Common.ClientManagement.Controller.ClientController'. | InnerException: No InnerException exception data found
+2019-05-07 10:15:31.629 +02:00 [ERR] Exception Type: InvalidOperationException | Message: Unable to resolve service for type 'Devon4Net.Business.Common.ClientManagement.Service.IClientService' while attempting to activate 'Devon4Net.Business.Common.ClientManagement.Controller.ClientController'. | InnerException: No InnerException exception data found
+2019-05-07 10:15:31.634 +02:00 [ERR] Exception Type: InvalidOperationException | Message: Unable to resolve service for type 'Devon4Net.Business.Common.ClientManagement.Service.IClientService' while attempting to activate 'Devon4Net.Business.Common.ClientManagement.Controller.ClientController'. | InnerException: No InnerException exception data found
+2019-05-07 10:20:07.551 +02:00 [ERR] Exception Type: InvalidOperationException | Message: Unable to resolve service for type 'Devon4Net.Business.Common.ClientManagement.Service.IClientService' while attempting to activate 'Devon4Net.Business.Common.ClientManagement.Controller.ClientController'. | InnerException: No InnerException exception data found
+2019-05-07 10:20:07.571 +02:00 [ERR] Exception Type: InvalidOperationException | Message: Unable to resolve service for type 'Devon4Net.Business.Common.ClientManagement.Service.IClientService' while attempting to activate 'Devon4Net.Business.Common.ClientManagement.Controller.ClientController'. | InnerException: No InnerException exception data found
+2019-05-07 10:20:07.576 +02:00 [ERR] Exception Type: InvalidOperationException | Message: Unable to resolve service for type 'Devon4Net.Business.Common.ClientManagement.Service.IClientService' while attempting to activate 'Devon4Net.Business.Common.ClientManagement.Controller.ClientController'. | InnerException: No InnerException exception data found
+2019-05-07 10:24:31.121 +02:00 [ERR] Exception Type: InvalidOperationException | Message: Unable to resolve service for type 'Devon4Net.Business.Common.ClientManagement.Service.IClientService' while attempting to activate 'Devon4Net.Business.Common.ClientManagement.Controller.ClientController'. | InnerException: No InnerException exception data found
+2019-05-07 10:24:31.139 +02:00 [ERR] Exception Type: InvalidOperationException | Message: Unable to resolve service for type 'Devon4Net.Business.Common.ClientManagement.Service.IClientService' while attempting to activate 'Devon4Net.Business.Common.ClientManagement.Controller.ClientController'. | InnerException: No InnerException exception data found
+2019-05-07 10:24:31.143 +02:00 [ERR] Exception Type: InvalidOperationException | Message: Unable to resolve service for type 'Devon4Net.Business.Common.ClientManagement.Service.IClientService' while attempting to activate 'Devon4Net.Business.Common.ClientManagement.Controller.ClientController'. | InnerException: No InnerException exception data found
+2019-05-07 10:26:57.606 +02:00 [INF] Action: OnActionExecutionAsync | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdPrestation: 1	
+IdClient: 2	
+Note: 1	
+DateCreation: 07/05/2019 08:26:10	
+DateModification: 07/05/2019 08:26:10, 
+2019-05-07 10:26:58.644 +02:00 [INF] Action: OnActionExecuting | Controller: Note | method: addNote| ActionArguments: 
+	
+Key: newNote, 	
+Value: 	
+IdPrestation: 1	
+IdClient: 2	
+Note: 1	
+DateCreation: 07/05/2019 08:26:10	
+DateModification: 07/05/2019 08:26:10, 
+2019-05-07 10:27:24.949 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-05-07 10:27:24.954 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-05-07 10:27:27.162 +02:00 [DBG] Result: 200 | Value: Devon4Net.Business.Common.NoteManagement.Dto.NoteDto
+2019-05-07 10:40:22.643 +02:00 [ERR] Exception Type: InvalidOperationException | Message: Unable to resolve service for type 'Devon4Net.Business.Common.ClientManagement.Service.IClientService' while attempting to activate 'Devon4Net.Business.Common.ClientManagement.Controller.ClientController'. | InnerException: No InnerException exception data found
+2019-05-07 10:40:22.661 +02:00 [ERR] Exception Type: InvalidOperationException | Message: Unable to resolve service for type 'Devon4Net.Business.Common.ClientManagement.Service.IClientService' while attempting to activate 'Devon4Net.Business.Common.ClientManagement.Controller.ClientController'. | InnerException: No InnerException exception data found
+2019-05-07 10:40:22.664 +02:00 [ERR] Exception Type: InvalidOperationException | Message: Unable to resolve service for type 'Devon4Net.Business.Common.ClientManagement.Service.IClientService' while attempting to activate 'Devon4Net.Business.Common.ClientManagement.Controller.ClientController'. | InnerException: No InnerException exception data found
+2019-05-07 14:25:52.269 +02:00 [ERR] Exception Type: InvalidOperationException | Message: Unable to resolve service for type 'Devon4Net.Business.Common.ClientManagement.Service.IClientService' while attempting to activate 'Devon4Net.Business.Common.ClientManagement.Controller.ClientController'. | InnerException: No InnerException exception data found
+2019-05-07 14:25:52.290 +02:00 [ERR] Exception Type: InvalidOperationException | Message: Unable to resolve service for type 'Devon4Net.Business.Common.ClientManagement.Service.IClientService' while attempting to activate 'Devon4Net.Business.Common.ClientManagement.Controller.ClientController'. | InnerException: No InnerException exception data found
+2019-05-07 14:25:52.293 +02:00 [ERR] Exception Type: InvalidOperationException | Message: Unable to resolve service for type 'Devon4Net.Business.Common.ClientManagement.Service.IClientService' while attempting to activate 'Devon4Net.Business.Common.ClientManagement.Controller.ClientController'. | InnerException: No InnerException exception data found
