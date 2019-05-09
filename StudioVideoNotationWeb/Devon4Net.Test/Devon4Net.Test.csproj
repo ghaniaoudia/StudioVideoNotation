@@ -1,16 +1,18 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="Current">
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <ApplicationIcon />
     <OutputType>Library</OutputType>
     <StartupObject />
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
   </PropertyGroup>
-
   <ItemGroup>
     <Compile Remove="Test\BaseManagementTest.cs" />
   </ItemGroup>
-
   <ItemGroup>
     <PackageReference Include="Microsoft.Data.Sqlite" Version="2.1.8" />
     <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="2.1.8" />
@@ -43,13 +45,11 @@
     <PackageReference Include="Devon4Net.Infrastructure.Test" Version="1.0.1" />
     <PackageReference Include="Devon4Net.Infrastructure.Log" Version="1.0.3" />
   </ItemGroup>
-
   <ItemGroup>
-    <ProjectReference Include="..\Devon4Net.Application.Configuration\Devon4Net.Application.Configuration.csproj" />    
+    <ProjectReference Include="..\Devon4Net.Application.Configuration\Devon4Net.Application.Configuration.csproj" />
     <ProjectReference Include="..\Devon4Net.Business.Common\Devon4Net.Business.Common.csproj" />
     <ProjectReference Include="..\Devon4Net.Domain.Entities\Devon4Net.Domain.Entities.csproj" />
   </ItemGroup>
-
   <ItemGroup>
     <None Update="Database\Resources\IntegrationTest.db">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -58,5 +58,4 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
-
 </Project>

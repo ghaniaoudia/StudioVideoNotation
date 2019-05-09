@@ -7,6 +7,7 @@ namespace Devon4Net.Business.Common.ClientManagement.Service
 {
     public interface IClientService
     {
-        ClientDto CreateClient(ClientDto client);
+        List<ClientDto> GetClients();//GetClients
+        ClientDto CreateClient(ClientDto client);//post
     }
 }

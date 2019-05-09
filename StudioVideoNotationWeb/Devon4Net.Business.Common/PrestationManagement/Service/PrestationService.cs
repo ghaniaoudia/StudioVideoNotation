@@ -21,17 +21,17 @@ namespace Devon4Net.Business.Common.PrestationManagement.Service
             Mapper = mapper;
         }
 
+
         public List<PrestationDto> GetAllPrestations()
         {
             var prestations = UoW.Repository<Prestation>().GetAll();
 
             return Mapper.Map<List<PrestationDto>>(prestations);
         }
+
         public PrestationDto GetPrestationById(int id)
         {
             Prestation prestation = UoW.Repository<Prestation>().Get(p => p.IdPrestation == id);
-            Console.WriteLine("Hi");
-
             return Mapper.Map<PrestationDto>(prestation);
         } 
     }

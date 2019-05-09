@@ -18,6 +18,12 @@ namespace Devon4Net.Business.Common.ClientManagement.Service
         {
             Mapper = mapper;
         }
+
+        public List<ClientDto> GetClients()
+        {
+            var clients = UoW.Repository<Client>().GetAll();
+            return Mapper.Map<List<ClientDto>>(clients);
+        }
         public ClientDto CreateClient(ClientDto client)
         {
 

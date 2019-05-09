@@ -3,6 +3,7 @@ using Devon4Net.Business.Common.UserManagement.Service;
 using Devon4Net.Infrastructure.JWT.Configuration;
 using Devon4Net.Business.Common.PrestationManagement.Service;
 using Devon4Net.Business.Common.NoteManagement.Service;
+using Devon4Net.Business.Common.ClientManagement.Service;
 
 namespace Devon4Net.Business.Common.Configuration
 {
@@ -16,8 +17,9 @@ namespace Devon4Net.Business.Common.Configuration
         public static void AddBusinessCommonDependencyInjectionService(this IServiceCollection services)
         {
             services.AddTransient<ILoginService, LoginService>();
-            services.AddTransient<IPrestationService, PrestationService>();
+            services.AddTransient<IPrestationService, PrestationService>(); 
             services.AddTransient<INoteService, NoteService>();
+            services.AddTransient<IClientService, ClientService>();
         }
 
         /// <summary>

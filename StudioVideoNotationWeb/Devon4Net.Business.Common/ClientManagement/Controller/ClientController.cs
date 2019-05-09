@@ -14,25 +14,38 @@ namespace Devon4Net.Business.Common.ClientManagement.Controller
 {
     public class ClientController: Devon4NetController
     {
-        private IClientService _ClientService;
+        private IClientService _clientService;
 
         public ClientController(IClientService clientService, ILogger<ClientController> logger,
             IMapper mapper ) : base(logger, mapper)
         {
-            _ClientService = clientService;
+            _clientService = clientService;
+        }
+
+        [HttpGet]
+        [Route("api/clients")]
+        [EnableCors("CorsPolicy")]
+        public IActionResult GetClients()
+        {
+
+            List<ClientDto> clients = _clientService.GetClients();
+            if (clients == null)
+            {
+                return NotFound();
+            }
+            return Ok(clients);
         }
 
         [HttpPost]
         [Route("api/client")]
-        [AllowAnonymous]
         [EnableCors("CorsPolicy")]
-        public IActionResult createClient([FromBody]ClientDto newClient)
+        public IActionResult CreateClient([FromBody]ClientDto newClient)
         {
             if (newClient == null)
             {
                 return BadRequest();
             }
-            ClientDto createdClient = _ClientService.CreateClient(newClient);
+            ClientDto createdClient = _clientService.CreateClient(newClient);
             return Ok(createdClient);
 
         }
